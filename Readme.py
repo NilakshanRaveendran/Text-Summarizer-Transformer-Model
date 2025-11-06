@@ -1,0 +1,1 @@
+#This is a transformer model for text classification using TensorFlow and Hugging Face's Google's T5 small Transformers library.
